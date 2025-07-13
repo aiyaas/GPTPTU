@@ -5,7 +5,7 @@ Global Processing Text from User Prompt
 ## Instalasi & Penggunaan
 
 1. **Instalasi**
-   Clone repo ini dan pastikan dependensi sudah terpasang (jika ada).
+   Clone repo ini dan ayo kita mulai dengan meng `import` kode `index.js` ini.
 
 2. **Penggunaan Dasar**
    Import fungsi utama dari `index.js`:
@@ -17,7 +17,7 @@ Global Processing Text from User Prompt
    console.log(hasil);
 
 # Tentang Fungsi g_from
-`g_from(input: string): string` Fungsi ini menerima teks pengguna, memproses sesuai filter yang ditentukan, dan mengembalikan hasilnya.
+`g_from(prompt: string): string` Fungsi ini menerima teks pengguna, memproses sesuai filter yang ditentukan, dan mengembalikan hasilnya.
 
 # Kontribusi
 Silakan buat issue atau pull request untuk perbaikan dan pengembangan lebih lanjut.
