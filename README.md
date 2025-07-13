@@ -19,6 +19,7 @@ Global Processing Text from User Prompt
 # Tentang Fungsi g_from
 `g_from(input: string): string` Fungsi ini menerima teks pengguna, memproses sesuai filter yang ditentukan, dan mengembalikan hasilnya.
 
+# Kontribusi
+Silakan buat issue atau pull request untuk perbaikan dan pengembangan lebih lanjut.
+
 <hr />
-- Kontribusi
-- Silakan buat issue atau pull request untuk perbaikan dan pengembangan lebih lanjut.
